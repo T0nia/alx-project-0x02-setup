@@ -18,8 +18,7 @@ const Home: NextPage = () => {
           Welcome to ALX Project 2
         </h1>
         <p className="text-lg text-gray-700">
-          This is a Next.js project bootstrapped with create-next-app,
-          using TypeScript and Tailwind CSS.
+          A Next.js project with create-next-app, TypeScript and Tailwind CSS.
         </p>
       </main>
     </div>
