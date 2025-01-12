@@ -2,7 +2,7 @@ import type { GetStaticProps } from 'next'
 import type { NextPage } from 'next'
 import Head from 'next/head'
 import Header from '@/components/layout/Header'
-import PostCard from '../components/common/PostCard'
+import PostCard from '@/components/common/PostCard'
 import { Post, PostApiResponse } from '../interfaces'
 
 interface PostsPageProps {
